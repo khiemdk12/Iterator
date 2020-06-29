@@ -42,5 +42,4 @@ public class ConcreteIterator extends MyIterator{
     int currentItem(int i) {
         return a.getItem(i);
     }
-    
 }
